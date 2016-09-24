@@ -1,0 +1,6 @@
+To execute the project
+
+1. Run main.py
+
+-metrics.py is the file provided by Kaggle for calculating the RMSE metric
+-AllViolations.csv, restaurant_ids_to_yelp_ids.csv, yelp_boston_academic_dataset form the dataset provided by Kaggle.
